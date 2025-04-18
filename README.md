@@ -1,2 +1,2 @@
 # Guitar-Chord-Prediction
-Simple ML Project for predicting guitar chords based on the finger positions (shapes)
+PyTorch implementation that comapares the results between a model using nn.Linear layers and a model where the nn.Linear layers are replaced by NdLinear.
